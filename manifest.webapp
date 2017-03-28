@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "GDG Kasu Website",
+  "launch_path": "/index.html",
+  "description": "Official google developers group site, kaduna state university.",
+  "icons": {
+    "128": "/images/touch/kasu128x128.png"
+  },
+  "developer": {
+    "name": "Umar Yusuf",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "GDG Kasu Website",
+      "description": "Official google developers group site, kaduna state university."
+    }
+  }
+}
